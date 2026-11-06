@@ -21,4 +21,4 @@ Monitorar dispositivos autorizados, coletar métricas e eventos, registrar audit
 
 ## Documentação
 
-Decisões de arquitetura registradas em [`docs/adr/`](docs/adr/).
+Decisões de arquitetura registradas em [`docs/adr/`](docs/adr/0001-escolha-de-linguagens.md).
